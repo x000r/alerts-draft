@@ -1,4 +1,6 @@
+.gitignore
 .vscode
 backend/src/dist
 frontend/src/dist
 node_modules
+*package-lock.json
